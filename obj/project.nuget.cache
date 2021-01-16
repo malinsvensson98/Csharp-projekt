@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ezi/LSOg3fbtUomk1IusRRo6P/EhdQLy7deUko/n18f8xw4i9La/OZ4h2jkOQru2ESfAsG1T1/n+CmXl/hqLEw==",
+  "success": true,
+  "projectFilePath": "/Users/malinsvensson/Desktop/csprojekt/csprojekt.csproj",
+  "expectedPackageFiles": [
+    "/Users/malinsvensson/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
